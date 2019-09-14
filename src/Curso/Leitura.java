@@ -19,13 +19,13 @@ public class Leitura {
 			int siape;
 			Professor p = new Professor();
 			//nome = JOptionPane.showInputDialog("Nome:");
-			p.setNome("João");
+			p.setNome("Pedro");
 			//idade = Integer.parseInt(JOptionPane.showInputDialog("Idade: "));
 			p.setIdade(40);
 			//cpf = JOptionPane.showInputDialog("CPF: ");
-			p.setCpf("30709087698");
+			p.setCpf("019382012983");
 			//sexo = JOptionPane.showInputDialog("Sexo: ");
-			p.setSexo("Masc");
+			p.setSexo("Masculino");
 			//siape = Integer.parseInt(JOptionPane.showInputDialog("SIAPE: "));
 			p.setSiape(123);
 			//curso.SalvarPessoa(p);
